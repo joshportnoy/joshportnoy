@@ -1,6 +1,6 @@
 👋 Hi, I’m @joshportnoy
 
-I'm currently in the process of hunting down and uploading my project history, so please be patient and check back soon for more content!
+I'm currently in the process of updating my project history, so please be patient and check back soon for more content!
 <!---
 - 👀 I’m interested in machine learning and learning machines
 - 🌱 I’m currently learning to machine
